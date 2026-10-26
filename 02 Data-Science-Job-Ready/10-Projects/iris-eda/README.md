@@ -80,6 +80,12 @@ iris_df = sns.load_dataset('iris')
 | Histogram with KDE: petal length | Distribution and shape of petal length |
 | Horizontal box plots: all numerical features | Spread of each feature and possible outliers |
 
+![Sepal scatter plot](output.png)
+
+![Petal length histogram](histogram.png)
+
+![Feature box plots](box%20plot.png)
+
 **Key findings**
 
 1. The dataset has 150 records and 5 columns, with no missing values.
